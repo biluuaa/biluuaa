@@ -13,6 +13,6 @@
 
 Мое портфолио (Google Drive) с примерами интервью, ТЗ, схем и спроектированных API доступно по ссылке: https://drive.google.com/drive/folders/1xdhEcZxHZoa8s3zIAgIU47iZZ4StduHb?usp=sharing
 
-**Портфолио:** [system-analyst-portfolio](https://github.com/biluuaa/system-analyst-portfolio)
+**Портфолио:** [system-analyst-portfolio](https://github.com/biluuaa/my_portfolio)
 
 **Связь:** Telegram [@ardan_BSA](https://t.me/ardan_BSA) · a.batuev.bsa@mail.ru
