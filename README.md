@@ -11,7 +11,7 @@
 - Базы данных: Уверенное владение SQL в PostgreSQL (сложные запросы, JOIN, GROUP BY, подзапросы, агрегатные функции). Проектирование логических и физических моделей данных (ER-диаграммы, нормализация до 3НФ).
 - Моделирование и архитектура: Проектирование процессов AS-IS / TO-BE в BPMN 2.0. Моделирование логики систем в UML (Use Case, Sequence, Activity и др). Понимание принципов микросервисной и событийной архитектуры.
 
-Мое портфолио (Google Drive) с примерами интервью, ТЗ, схем и спроектированных API доступно по ссылке: https://drive.google.com/drive/folders/1xdhEcZxHZoa8s3zIAgIU47iZZ4StduHb?usp=sharing
+**Мое портфолио (Google Drive)** с примерами интервью, ТЗ, схем и спроектированных API доступно по ссылке: https://drive.google.com/drive/folders/1xdhEcZxHZoa8s3zIAgIU47iZZ4StduHb?usp=sharing
 
 **Портфолио (GIT):** [system-analyst-portfolio](https://github.com/biluuaa/my_portfolio)
 
